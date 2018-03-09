@@ -1,0 +1,100 @@
+
+body{
+	background-color: #c9c9c9;
+}
+
+/*navbar*/
+.navbar{
+	background-color: #6c6c6c;
+}
+
+.navbar li a{
+	color: white;
+	font-family: 'Rammetto One', cursive;
+}
+
+li .active{
+	background-color: 
+}
+
+.btn-default, .form-control{
+	color:#6c6c6c;
+	border:none;
+	font-family: 'Rammetto One', cursive;
+}
+
+.nav>li>a:focus, .nav>li>a:hover{
+	background-color: #fff;
+	color:black;
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{
+	color:gray;
+}
+
+.dropdown-menu{
+	background-color: #7f7f7f;
+}
+
+.navbar li>a{
+ 	color:white;
+}
+
+.navbar-toggle{
+	background-color: white;
+	border-color:white;
+}
+
+.navbar-toggle .icon-bar{
+	background-color: #6c6c6c;
+}
+
+/*caurousel*/
+.topimages{
+	position: relative;
+}
+
+.topphrase{
+	position: absolute;
+	top:50px;
+	left:100px;
+	font-family: 'Rammetto One', cursive;
+	color: white;
+	font-size:50px;
+}
+
+
+.carousel{
+	margin-top: -20px;
+}
+
+
+/*Jumbotron*/
+
+.jth1, h3{
+	font-family: 'Rammetto One', cursive;
+	color: #6c6c6c;
+}
+
+/*Policy*/
+.perth{
+	margin-top: 0px;
+	font-family: 'Rammetto One', cursive;
+	color: #6c6c6c;
+}
+
+.thumnail{
+	background-color: #c9c9c9
+}
+
+/*contact*/
+.btsend{
+	margin-bottom: 5px;
+}
+
+/*footer*/
+.copyright{
+	background-color: #6c6c6c;
+	color:white;
+	padding:10px 0 10px 0 ;
+}
